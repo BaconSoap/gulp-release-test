@@ -11,6 +11,7 @@
   "devDependencies": {
     "gulp": "~3.6.2",
     "gulp-concat": "~2.2.0",
-    "gulp-git": "~0.4.2"
+    "gulp-git": "0.4.2",
+    "run-sequence": "~0.3.6"
   }
 }
