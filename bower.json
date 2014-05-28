@@ -1,0 +1,16 @@
+{
+  "name": "gulp-bower",
+  "version": "0.0.0",
+  "authors": [
+    "Andrew Varnerin <andrew@varnerin.info>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
